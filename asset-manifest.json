@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/deploy-react-router/static/js/main.d9af2554.chunk.js",
-    "main.js.map": "/deploy-react-router/static/js/main.d9af2554.chunk.js.map",
+    "main.js": "/deploy-react-router/static/js/main.e9acb1d8.chunk.js",
+    "main.js.map": "/deploy-react-router/static/js/main.e9acb1d8.chunk.js.map",
     "runtime-main.js": "/deploy-react-router/static/js/runtime-main.289d1461.js",
     "runtime-main.js.map": "/deploy-react-router/static/js/runtime-main.289d1461.js.map",
-    "static/js/2.6927c184.chunk.js": "/deploy-react-router/static/js/2.6927c184.chunk.js",
-    "static/js/2.6927c184.chunk.js.map": "/deploy-react-router/static/js/2.6927c184.chunk.js.map",
+    "static/js/2.51c34371.chunk.js": "/deploy-react-router/static/js/2.51c34371.chunk.js",
+    "static/js/2.51c34371.chunk.js.map": "/deploy-react-router/static/js/2.51c34371.chunk.js.map",
     "index.html": "/deploy-react-router/index.html",
-    "static/js/2.6927c184.chunk.js.LICENSE.txt": "/deploy-react-router/static/js/2.6927c184.chunk.js.LICENSE.txt"
+    "static/js/2.51c34371.chunk.js.LICENSE.txt": "/deploy-react-router/static/js/2.51c34371.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.289d1461.js",
-    "static/js/2.6927c184.chunk.js",
-    "static/js/main.d9af2554.chunk.js"
+    "static/js/2.51c34371.chunk.js",
+    "static/js/main.e9acb1d8.chunk.js"
   ]
 }
